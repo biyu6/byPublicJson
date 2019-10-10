@@ -4,7 +4,7 @@
       "id": "checkPhone",
       "contentData": {
         "code": "200",
-        "msg": "成功",
+        "msg": "成功"
       }
     },
     {
@@ -12,16 +12,16 @@
       "contentData": {
         "code": "200",
         "msg": "成功",
-        "data":{
-          "userId":"100001",
-          "account":"18518165213",
-          "name":"胡忠诚",
-          "phone":"18518165213",
-          "eMaill":"biyu6@126.com",
-          "headImg":"http://img5.imgtn.bdimg.com/it/u=3916481728,2850933383&fm=26&gp=0.jpg",
-          "organizationId":"yt-4",
-          "orgCode":"yt-jszx",
-          "orgName":"益泰-软件技术部"
+        "data": {
+          "userId": "100001",
+          "account": "18518165213",
+          "name": "胡忠诚",
+          "phone": "18518165213",
+          "eMaill": "biyu6@126.com",
+          "headImg": "http://img5.imgtn.bdimg.com/it/u=3916481728,2850933383&fm=26&gp=0.jpg",
+          "organizationId": "yt-4",
+          "orgCode": "yt-jszx",
+          "orgName": "益泰-软件技术部"
         }
       }
     },

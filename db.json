@@ -5,6 +5,13 @@
       "contentData": {
         "code": "200",
         "msg": "成功",
+      }
+    },
+    {
+      "id": "login",
+      "contentData": {
+        "code": "200",
+        "msg": "成功",
         "data":{
           "userId":"100001",
           "account":"18518165213",
@@ -16,13 +23,6 @@
           "orgCode":"yt-jszx",
           "orgName":"益泰-软件技术部"
         }
-      }
-    },
-    {
-      "id": "login",
-      "contentData": {
-        "code": "103",
-        "msg": "60"
       }
     },
     {

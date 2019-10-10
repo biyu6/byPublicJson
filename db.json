@@ -3,8 +3,8 @@
     {
       "id": "checkPhone",
       "contentData": {
-        "code": "101",
-        "msg": "该手机号未初始化，请联系本单位管理员"
+        "code": "200",
+        "msg": "成功"
       }
     },
     {

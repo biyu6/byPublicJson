@@ -31,6 +31,111 @@
         "code": "200",
         "msg": "成功"
       }
+    },
+    {
+      "id": "mailListData",
+      "contentData": {
+        "status": 1,
+        "msg": "成功",
+        "obj": {
+          "contactsList": [
+            {
+              "type": "im",
+              "targetId": "101",
+              "name": "胡忠诚",
+              "headUrl": "http://pic13.nipic.com/20110409/7119492_114440620000_2.jpg"
+            },
+            {
+              "type": "im",
+              "targetId": "102",
+              "name": "任锦智",
+              "headUrl": "http://pic41.nipic.com/20140516/2579296_105858365131_2.jpg"
+            },
+            {
+              "type": "im",
+              "targetId": "103",
+              "name": "张珊珊",
+              "headUrl": "http://pic31.nipic.com/20130728/8886898_150339538164_2.jpg"
+            }
+          ],
+          "listData": [
+            [
+              {
+                "id": "101",
+                "title": "六年二班",
+                "count": "12",
+                "img": "",
+                "subData": []
+              },
+              {
+                "id": "102",
+                "title": "益泰公司",
+                "count": "",
+                "img": "",
+                "subData": [
+                  {
+                    "id": "201",
+                    "title": "组织机构",
+                    "count": ""
+                  },
+                  {
+                    "id": "202",
+                    "title": "我的部门",
+                    "count": ""
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "id": "103",
+                "title": "市管企业",
+                "count": "10",
+                "img": "",
+                "subData": []
+              }
+            ],
+            [
+              {
+                "id": "104",
+                "title": "双管单位",
+                "count": "1",
+                "img": "",
+                "subData": []
+              }
+            ],
+            [
+              {
+                "id": "105",
+                "title": "我的群组",
+                "count": "",
+                "img": "",
+                "subData": []
+              },
+              {
+                "id": "106",
+                "title": "收藏联系人",
+                "count": "",
+                "img": "",
+                "subData": [
+                  {
+                    "id": "203",
+                    "title": "我的部门",
+                    "count": ""
+                  }
+                ]
+              },
+              {
+                "id": "107",
+                "title": "标签",
+                "count": "",
+                "img": "",
+                "subData": []
+              }
+            ]
+          ]
+        }
+      }
     }
   ],
   "profile": {

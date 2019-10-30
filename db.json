@@ -35,9 +35,9 @@
     {
       "id": "mailListData",
       "contentData": {
-        "status": 1,
+        "code": "200",
         "msg": "成功",
-        "obj": {
+        "data": {
           "contactsList": [
             {
               "type": "im",
@@ -135,6 +135,189 @@
             ]
           ]
         }
+      }
+    },
+    {
+      "id": "myApp",
+      "contentData": {
+        "code": "200",
+        "msg": "成功",
+        "data": [
+          {
+            "title": "通知通告",
+            "img": "images/itemIcon/tztg.png",
+            "id": "L01",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "http://www.chinatax.gov.cn/chinatax/n810214/n810606/index.html"
+          },
+          {
+            "title": "会议通知",
+            "img": "images/itemIcon/hytz.png",
+            "id": "L02",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "http://www.sohu.com/a/327668105_811190"
+          },
+          {
+            "title": "工作任务",
+            "img": "images/itemIcon/gzrw.png",
+            "id": "L03",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "https://jingyan.baidu.com/article/0eb457e53801a303f1a905c7.html"
+          },
+          {
+            "title": "安全生产",
+            "img": "images/itemIcon/aqsc.png",
+            "id": "M01",
+            "type": "Micro",
+            "version": "1.0.10",
+            "url": "gzytPackage/aqsc.zip",
+            "packageName": "aqsc/index.html"
+          },
+          {
+            "title": "舆情监测",
+            "img": "images/itemIcon/yqjc.png",
+            "id": "L04",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "http://www.fzyuqing.com/zwyq/"
+          },
+          {
+            "title": "信访维稳",
+            "img": "images/itemIcon/xfww.png",
+            "id": "L05",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "http://wsxf.bjxfb.gov.cn/"
+          },
+          {
+            "title": "重大活动服务保障",
+            "img": "images/itemIcon/fwbz.png",
+            "id": "M02",
+            "type": "Micro",
+            "version": "1.0.2",
+            "url": "gzytPackage/fwbz.zip",
+            "packageName": "fwbz/index.html"
+          },
+          {
+            "title": "轻应用01",
+            "img": "images/itemIcon/itemcs.png",
+            "id": "L06",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "https://www.baidu.com/"
+          },
+          {
+            "title": "微应用01",
+            "img": "images/itemIcon/itemcs.png",
+            "id": "M03",
+            "type": "Micro",
+            "version": "1.0.0",
+            "url": "gzytPackage/wyy01.zip",
+            "packageName": "wyy01/index.html"
+          },
+          {
+            "title": "微应用02vue",
+            "img": "images/itemIcon/itemcs.png",
+            "id": "M04",
+            "type": "Micro",
+            "version": "1.0.0",
+            "url": "gzytPackage/wyy02.zip",
+            "packageName": "wyy02/index.html"
+          },
+          {
+            "title": "微应用交互",
+            "img": "images/itemIcon/itemcs.png",
+            "id": "M05",
+            "type": "Micro",
+            "version": "1.0.0",
+            "url": "gzytPackage/toJSTest.zip",
+            "packageName": "toJSTest/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "toolApp",
+      "contentData": {
+        "code": "200",
+        "msg": "成功",
+        "data": [
+          {
+            "title": "视频会议",
+            "img": "images/itemIcon/sphy.png",
+            "id": "L07",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "https://jingyan.baidu.com/article/db55b609c568454ba30a2f2a.html"
+          },
+          {
+            "title": "工作日程",
+            "img": "images/itemIcon/gzrc.png",
+            "id": "L08",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "https://baijiahao.baidu.com/s?id=1594996833874641869&wfr=spider&for=pc"
+          },
+          {
+            "title": "文件系统",
+            "img": "images/itemIcon/wjxt.png",
+            "id": "L09",
+            "type": "Light",
+            "version": "1.0.0",
+            "url": "https://blog.csdn.net/wsmzyzdw/article/details/82908736"
+          },
+          {
+            "title": "测试微应用",
+            "img": "images/itemIcon/cswyy.png",
+            "id": "M06",
+            "type": "Micro",
+            "version": "1.0.10",
+            "url": "gzytPackage/toJSTest.zip",
+            "packageName": "toJSTest/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "myFirendList",
+      "contentData": {
+        "code": "200",
+        "msg": "成功",
+        "data": [
+          {
+            "friendUserId": "101",
+            "friendUserHeadPic": "http://pic13.nipic.com/20110409/7119492_114440620000_2.jpg.jpg",
+            "friendUserNickName": "胡忠诚",
+            "friendUserNameDesc": "biyu6"
+          },
+          {
+            "friendUserId": "102",
+            "friendUserHeadPic": "http://img2.imgtn.bdimg.com/it/u=4236579356,2584371472&fm=26&gp=0.jpg",
+            "friendUserNickName": "任锦智",
+            "friendUserNameDesc": "任锦智昵称"
+          },
+          {
+            "friendUserId": "103",
+            "friendUserHeadPic": "http://img5.imgtn.bdimg.com/it/u=2884107401,3797902000&fm=26&gp=0.jpg",
+            "friendUserNickName": "张珊珊-真名",
+            "friendUserNameDesc": ""
+          },
+          {
+            "friendUserId": "104",
+            "friendUserHeadPic": "http://img2.imgtn.bdimg.com/it/u=1710689230,770072986&fm=26&gp=0.jpg",
+            "friendUserNickName": "李思思",
+            "friendUserNameDesc": "李思思2"
+          },
+          {
+            "friendUserId": "105",
+            "friendUserHeadPic": "http://img2.imgtn.bdimg.com/it/u=1710689230,770072986&fm=26&gp=0.jpg",
+            "friendUserNickName": "李4",
+            "friendUserNameDesc": "李帧-测试"
+          }
+        ]
       }
     }
   ],

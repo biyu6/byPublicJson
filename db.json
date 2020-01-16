@@ -172,7 +172,7 @@
             "url": "http://wsxf.bjxfb.gov.cn/"
           },
           {
-            "title": "重大活动服务保障",
+            "title": "服务保障",
             "img": "images/itemIcon/fwbz.png",
             "id": "M02",
             "type": "Micro",
@@ -198,7 +198,7 @@
             "packageName": "wyy01/index.html"
           },
           {
-            "title": "微应用02vue",
+            "title": "微应用02",
             "img": "images/itemIcon/itemcs.png",
             "id": "M04",
             "type": "Micro",

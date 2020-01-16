@@ -62,77 +62,56 @@
             [
               {
                 "id": "101",
-                "title": "六年二班",
+                "title": "我的部门",
                 "count": "12",
                 "img": "",
                 "subData": []
               },
               {
                 "id": "102",
-                "title": "益泰公司",
+                "title": "工作联系人",
                 "count": "",
                 "img": "",
-                "subData": [
-                  {
-                    "id": "201",
-                    "title": "组织机构",
-                    "count": ""
-                  },
-                  {
-                    "id": "202",
-                    "title": "我的部门",
-                    "count": ""
-                  }
-                ]
-              }
-            ],
-            [
+                "subData": []
+              },
               {
                 "id": "103",
-                "title": "市管企业",
-                "count": "10",
-                "img": "",
-                "subData": []
-              }
-            ],
-            [
-              {
-                "id": "104",
-                "title": "双管单位",
-                "count": "1",
-                "img": "",
-                "subData": []
-              }
-            ],
-            [
-              {
-                "id": "105",
                 "title": "我的群组",
                 "count": "",
                 "img": "",
                 "subData": []
               },
               {
-                "id": "106",
+                "id": "104",
                 "title": "收藏联系人",
                 "count": "",
                 "img": "",
-                "subData": [
-                  {
-                    "id": "203",
-                    "title": "我的部门",
-                    "count": ""
-                  }
-                ]
+                "subData": []
+              },
+            ],
+            [
+              {
+                "id": "105",
+                "title": "市管企业",
+                "count": "10",
+                "img": "",
+                "subData": []
+              },
+              {
+                "id": "106",
+                "title": "双管单位",
+                "count": "1",
+                "img": "",
+                "subData": []
               },
               {
                 "id": "107",
-                "title": "标签",
+                "title": "国资委",
                 "count": "",
                 "img": "",
                 "subData": []
               }
-            ]
+            ],
           ]
         }
       }
